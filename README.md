@@ -10,4 +10,4 @@ Você pode entrar em contato comigo 📫
 @alurastartestudante
 
 Lembre-se: para adiciona
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adorocinema.com%2Ffilmes%2Ffilme-27415%2F&psig=AOvVaw3bwwp7K3p1wguUREOeydbm&ust=1717769175682000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjR9_2Sx4YDFQAAAAAdAAAAABAE](link)
+![](link)
